@@ -1,4 +1,5 @@
-### Hi there 👋
+### Personally, I have always been fascinated with the world of technology ever since I first came in contact with it. Just like any other individual, I have planned and pushed through those plans to achieve my life goals. I am excited to become a part of Pursuit fellows. Eagerly look forward to learning new skills and techniques to become a software developer.
+
 
 <!--
 **imrannazir20/imrannazir20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
