@@ -1,4 +1,6 @@
-### Personally, I have always been fascinated with the world of technology ever since I first came in contact with it. Just like any other individual, I have planned and pushed through those plans to achieve my life goals. I am excited to become a part of Pursuit fellows. Eagerly look forward to learning new skills and techniques to become a software developer.
+### I am a Full Stack Software Development Fellow at Pursuit who has been fascinated with technology since building my first website. I was among a selective cohort of applicants to be invited into Pursuit's Fellowship for rising developers and have already mastered JavaScript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, and pair programming. My greatest key strengths include as a problem solver, an interest in learning new things, and reliable. I have the ability to see a situation from different perspectives and I can get my work done even in the face of difficult obstacles.
+I want to develop a custom medical software that will give unique solutions to doctors and patents for a specific medical facility.
+I really enjoy cooking in my spare time. I often watch cooking programs to learn new cooking techniques and learn about new dishes. I am a big fan of cricket. Sometimes I play cricket with friends . 
 
 
 <!--
